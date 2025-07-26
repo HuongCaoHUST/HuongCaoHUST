@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là Hưởng
 
-🎓 Sinh viên Kỹ thuật Điện tử - Viễn thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội
+🎓 Sinh viên Kỹ thuật Điện tử - Viễn thông, Trường Điện - Điện tử, Đại học Bách khoa Hà Nội.
 💡 Đam mê lập trình, nghiên cứu hệ thống nhúng và trí tuệ nhân tạo.  
 🚀 Luôn học hỏi và khám phá các công nghệ mới, đặc biệt trong lĩnh vực IoT, Deep Learning và FPGA.
 
