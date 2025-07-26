@@ -25,7 +25,6 @@ Phân tách mô hình học sâu giữa client và server với Docker và Rabbi
 ---
 
 ## 📫 Liên hệ
-
-- ✉️ Email: huongcao.email@gmail.com
+- ✉️ Email: huongcao.seee@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/huongcao](https://www.linkedin.com/in/huong-cao-seee/) 
 
