@@ -21,6 +21,7 @@ Phân tách mô hình học sâu giữa client và server với Docker và Rabbi
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-00A859?style=flat&logo=freertos&logoColor=white)
 
 ---
 
