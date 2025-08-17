@@ -12,8 +12,11 @@
 
 ## 🚀 Dự án nổi bật
 
-### 🔹 [⚙️ Split Learning Framework](https://github.com/HuongCaoHUST/split_learning)
+### 🔹 [⚙️ Split Learning](https://github.com/HuongCaoHUST/split_learning)
 Phân tách mô hình học sâu giữa client và server với Docker và RabbitMQ.
+### 🔹 [📟 Cân thông minh](https://github.com/HuongCaoHUST/Can_Thong_Minh)
+Sử dụng ESP8266, HX711 để đo trọng lượng, hiển thị trên LCD1602, và gửi dữ liệu lên server qua HTTP POST.
+Thiết kế PCB
 
 ## 🛠️ Công nghệ & Ngôn ngữ
 
