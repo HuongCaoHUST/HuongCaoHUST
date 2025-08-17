@@ -22,6 +22,7 @@ Phân tách mô hình học sâu giữa client và server với Docker và Rabbi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium-999999?style=flat&logo=altiumdesigner&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-00A859?style=flat&logo=freertos&logoColor=white)
 
 ---
